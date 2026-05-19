@@ -22,4 +22,4 @@ The repository is organized into folders representing different material models 
 
 ## Environment & Versions
 * **MOOSE Version:** `snapshot-20-10-27-53033-g845befc6fb`
-*Note: The external linear material used in the `linear-marmot` setup is provided by the material modeling toolbox [MARMOT](LINK_HIER_EINFÜGEN) and coupled via the [Chamois](LINK_HIER_EINFÜGEN) interface. They are linked here simply as a reference in case anyone is interested in the source of this secondary material model.*
+*Note: The external linear material used in the `linear-marmot` setup is provided by the material modeling toolbox [MARMOT](https://github.com/MAteRialMOdelingToolbox/Marmot) and coupled via the [Chamois](https://github.com/matthiasneuner/chamois) interface. They are linked here simply as a reference in case anyone is interested in the source of this secondary material model.*
